@@ -27,9 +27,11 @@
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
+<br/>
+<br/>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
-<br/>
 <br/>
 
 ### Can you break these counter?

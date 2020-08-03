@@ -1,8 +1,6 @@
 <div align="center">
 <br/>
-<kbd>
 <img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
-<kbd />
 
 > **GIF loading a little slow? You can drink a cup of ☕ first**.
 

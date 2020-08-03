@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!" style="border-radius: 11px">
 
 > **GIF loading a little slow? You can drink a cup of ☕ first**.
 

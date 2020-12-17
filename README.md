@@ -54,6 +54,6 @@
 
 ### Can you break these counter?
 
-![Visitor Count](https://profile-counter.glitch.me/kelvinosse/count.svg)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kelvinosse)
 
 </div>
